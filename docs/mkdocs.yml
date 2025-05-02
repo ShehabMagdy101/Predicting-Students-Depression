@@ -1,0 +1,5 @@
+site_name: Shehab
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
